@@ -132,6 +132,18 @@ h4 {
   padding: 15px 30px;
 }
 
+.btn-branding:hover {
+  color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+  border-radius: 4px;
+}
+
+.btn-branding-outline:hover {
+  background: var(--primary-color);
+  border-radius: 4px;
+  color: white;
+}
+
 .project-description {
   padding: 120px 60px;
 }
