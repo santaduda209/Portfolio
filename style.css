@@ -1,5 +1,5 @@
 :root {
-  --primary-color: #7e4cb0;
+  --primary-color: #137dc5;
   --secondary-color: #f9f7fe;
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", serif;
@@ -198,6 +198,10 @@ footer .social-links a:hover {
 
   .hero {
     line-height: 2;
+  }
+
+  .logo {
+    max-height: 30px;
   }
 
   .content-container {
